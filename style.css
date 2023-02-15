@@ -1,0 +1,29 @@
+.asd{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    background-color: grey; 
+    border:10px solid rgb(44, 43, 43);
+    padding: 5px;
+
+}
+
+body{
+    background-color: rgb(159, 90, 223);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.ppp{
+    color: whitesmoke;
+}
+
+.all {
+    border: 5px solid black;
+    border-radius: 50px;
+}
+
+.mag{
+
+}
